@@ -20,7 +20,9 @@
 curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```
-
+ ```console
+curl -sLkO https://github.com/Purhariyanto/Docker-Ubuntu-Desktop-NoMachine/raw/main/nomachine-windows10.sh ; bash nomachinewindows10
+ ```
 
 - Ubuntu 20.04 XFCE4 Desktop Environment with WineHQ:
 

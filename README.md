@@ -21,7 +21,7 @@ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```
  ```console
-curl -sLkO https://is.gd/Tqsyod ; bash nomachinewindows10
+curl -sLkO https://is.gd/Tqsyod ; bash Tqsyod
  ```
 
 - Ubuntu 20.04 XFCE4 Desktop Environment with WineHQ:

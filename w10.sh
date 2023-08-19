@@ -41,3 +41,4 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo User: user
 echo Passwd: 123456
 seq 1 432000000 | while read i; do echo -en "\r Running .     $i s /432000000 s";sleep 0.1;echo -en "\r Running ..    $i s /432000000 s";sleep 0.1;echo -en "\r Running ...   $i s /432000000 s";sleep 0.1;echo -en "\r Running ....  $i s /432000000 s";sleep 0.1;echo -en "\r Running ..... $i s /432000000 s";sleep 0.1;echo -en "\r Running     . $i s /432000000 s";sleep 0.1;echo -en "\r Running  .... $i s /432000000 s";sleep 0.1;echo -en "\r Running   ... $i s /432000000 s";sleep 0.1;echo -en "\r Running    .. $i s /432000000 s";sleep 0.1;echo -en "\r Running     . $i s /432000000 s";sleep 0.1; done
+
